@@ -1,0 +1,12 @@
+C:\Users\smomi\source\repos\Product\ProductLib\bin\Debug\ProductLib.dll
+C:\Users\smomi\source\repos\Product\ProductLib\bin\Debug\ProductLib.pdb
+C:\Users\smomi\source\repos\Product\ProductLib\obj\Debug\ProductLib.csproj.AssemblyReference.cache
+C:\Users\smomi\source\repos\Product\ProductLib\obj\Debug\ProductLib.csproj.CoreCompileInputs.cache
+C:\Users\smomi\source\repos\Product\ProductLib\obj\Debug\ProductLib.dll
+C:\Users\smomi\source\repos\Product\ProductLib\obj\Debug\ProductLib.pdb
+D:\training\Assignment\Product\ProductLib\bin\Debug\ProductLib.dll
+D:\training\Assignment\Product\ProductLib\bin\Debug\ProductLib.pdb
+D:\training\Assignment\Product\ProductLib\obj\Debug\ProductLib.csproj.AssemblyReference.cache
+D:\training\Assignment\Product\ProductLib\obj\Debug\ProductLib.csproj.CoreCompileInputs.cache
+D:\training\Assignment\Product\ProductLib\obj\Debug\ProductLib.dll
+D:\training\Assignment\Product\ProductLib\obj\Debug\ProductLib.pdb
